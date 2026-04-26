@@ -1,6 +1,6 @@
 ## Privacy Policy
 
-This privacy policy governs your use of the Süper Lig Puan Durumu app for Apple devices (Mac, iPhone and iPad) that was created by Mehmet Bayram. The app allows you to view live standings, match results, fixtures, and top scorers.
+This privacy policy governs your use of the Süper Lig Puan Durumu app for Apple devices (Mac, iPhone and iPad) that was created by Mehmet Bayram. The app allows you to view live standings, match results, fixtures, and top scorers. Additionally, during your free time, you can play Flick Football against AI in the app, or play online with friends via Game Center, or locally with two people on the same device.
 
 ### Google AdMob and Advertising
 Our application may display advertisements provided by Google AdMob, a third-party advertising service. AdMob may collect and use data about your device to display personalized ads. This data collection and usage are governed by AdMob's privacy policy. Admob may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile device's unique device ID, the IP address of your mobile device, your mobile operating system, and information about the way you use the application.
